@@ -1,5 +1,7 @@
 # Idea
 
+![Blind Person walking](https://www.scienceabc.com/wp-content/uploads/2017/01/Blind-man-walking.webp)
+
 People with **Vision Disability** faces a lot of problems while travelling and may encounter certain 
 **Accidents** due to carelessness of people while Driving or While walking using Phones and Headphones. 
 Our device will play a vital role in preventing such an accidents with Blinds and help them travel safely.
@@ -11,9 +13,13 @@ Our device will play a vital role in preventing such an accidents with Blinds an
 3. Predict **Size** of the object at front.
 4. Detect **Distance** of the object at front.
 5. **Face Recognition** to identify nearby people like
+
 * **Family**
 * **Friends**
 * **Acquaintance**
+
+![Face Recognition](https://pythonprogramming.net/static/images/opencv/opencv-intro-tutorial-python.gif)
+
 6. **Object Detection** like
 * **Vehicles**
 * **Animals**
