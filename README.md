@@ -46,5 +46,5 @@ to the **Visually Challenged** Person.
 
 ## Software Components Used
 * Python 3.6.4
-* Arduino UNO
+* Arduino IDLE
 * Open CV
